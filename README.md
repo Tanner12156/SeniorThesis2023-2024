@@ -39,6 +39,7 @@
 
 ## Movement
 - Walking
-- Jumping
+- Jump
+- Double Jump
 - Dash
 - And more idk what yet
