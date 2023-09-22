@@ -4,7 +4,7 @@
 
 ## Modular Guns
 
-    - AR
+- AR
     - Parts: Base, Grip, Barrel, Stock, Attachment
 - Pistol
     - Parts: Base, Grip, Barrel, Attachment
