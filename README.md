@@ -1,5 +1,9 @@
 # Senior Thesis 2023-2024
 
+# Summary
+
+
+
 # Wishlist:
 
 ## Modular Guns
@@ -14,10 +18,10 @@
 
 - AR
     - Parts: Base, Grip, Barrel, Stock, Attachment
-        - Base:
-        - Grip:
-        - Barrel:
-        - Stock:
+        - Base: Base Stats
+        - Grip: ± accuracy, ± reload speed, ± damage
+        - Barrel: ± damage, ± accuracy, ± fire rate
+        - Stock: ± max ammo, ± fire rate, ± reload speed
         - Attachment: ± element || ± stat 1, opposite to stat 2 
 - Pistol
     - Parts: Base, Grip, Barrel, Attachment
@@ -37,5 +41,5 @@
 - Walking
 - Running
 - Jumping
-- Double jump (?)
-- Ground Slam (?)
+- Dash
+- And more idk what yet
